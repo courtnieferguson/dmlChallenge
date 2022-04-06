@@ -1,0 +1,25 @@
+{
+  "name": "dmlChallenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:courtnieferguson/dmlChallenge.git",
+  "author": "courtnieferguson <84743680+courtnieferguson@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vscode/sqlite3": "^5.0.8",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "knex": "^1.0.5",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/knex": "^0.16.1",
+    "@types/node": "^17.0.23",
+    "concurrently": "^7.1.0",
+    "eslint": "^8.12.0",
+    "nodemon": "^2.0.15",
+    "tslint": "^6.1.3"
+  }
+}
